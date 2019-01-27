@@ -1,0 +1,48 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: georgia, helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    background-color: #f4f4f4; 
+}
+  .search {
+    width: 500px;
+    margin: 0 auto;
+  }
+
+  #notice p {
+    background-color: coral;
+    color: black;
+    text-align: center;
+
+  }
+
+
+  footer{
+    text-align: center;
+    background:#35474a;
+    height: auto;
+    color: #f4f4f4;
+    margin-top: 20px;
+  }
+
+  footer p {
+    padding: 28px;
+    letter-spacing: 2px;
+  }
+
+  footer p a{
+    color: #f4f4f4;
+    text-decoration: none;
+    font-style: italic;
+  }
+  footer p a:hover{
+    color:  #f4f4f4;
+    text-decoration: none;
+  }
+  #main-header {
+    background: #35474a !important;
+  }
+
